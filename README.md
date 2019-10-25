@@ -1,1 +1,3 @@
 # tomekrepo
+ziemia jest plaska
+
